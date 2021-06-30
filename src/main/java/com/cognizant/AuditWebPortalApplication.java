@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  
 @SpringBootApplication
 @EnableFeignClients
-public class AuditWebPortalApplication extends SpringBootServletInitializer{
+public class AuditWebPortalApplication{
 
 	
 	public static void main(String[] args) {
